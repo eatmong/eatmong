@@ -1,5 +1,0 @@
-- 👋 Hi, I’m @eatmong
-- 👀 I’m interested in osu private servers and osu itself
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on currently nothing solo projects
-- 📫 How to reach me eatmong#0777
